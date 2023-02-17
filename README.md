@@ -27,13 +27,13 @@ Tout ce dont le programme a besoin, c'est du diamètre de la vis et de son type 
 
 Vous voulez ajouter une vis dans la base de données pour que ce soit plus facile pour vous et 
 pour les autres utilisateurs ? Pas de problème !
-Ouvrez un requête sur la page Github que voici: https://www.github.com/*******
+Ouvrez un requête sur la page Github que voici: https://github.com/FloweyGaming/Generateur-de-Percage-CNC
 et je l'ajouterai ultérieurement !
 
 --------Vous avez trouvé un bug dans le programme--------
 
 Vous avez trouvé un bug et vous estimez qu'il doit être corrigé ?
-Ouvrez une issue* sur la page Github que voici: https://www.github.com/*******
+Ouvrez une issue* sur la page Github que voici: https://github.com/FloweyGaming/Generateur-de-Percage-CNC
 et je le règlerai dans les plus brefs délais !
 
 *Issue = Problème en anglais
