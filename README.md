@@ -40,6 +40,6 @@ et je le règlerai dans les plus brefs délais !
 
 ----------------------Me contacter-----------------------
 
-Mon discord: FloweyGaming#2123 
-Adresse mail: galasse200812@gmail.com
+Mon discord: @floweygaming_yt 
+Adresse mail: galasse2008@outlook.fr
 
